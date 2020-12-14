@@ -8,8 +8,17 @@
     - Would be useful for processing datasets such as the one from Ingenium
 
 
-- Reuseable Jupyter Notebooks
+- Repurposable Jupyter Notebooks
   - TBA
+
+- Notebooks to consider making
+  - TheCodingTrain
+    - TBA
+  - [Interactive streamgraphs](https://www.r-graph-gallery.com/streamgraph.html)
+    - Example: [A Topic Model of 75 Years of Archaeological Scholarship](https://shawngraham.github.io/archae-topic-models/20000/#/model/yearly)
+  - Creating fake exhibits with GPT-3 --> follow scraping tutorials
+    - What does this fake data say about museum's data?
+    - Need to get Tensorflow working...
 
 
 - Additional resources
