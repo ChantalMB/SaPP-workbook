@@ -17,3 +17,4 @@ Outline
   - Where output goes
   - How to modify
 - Push to git using command line!
+- Make it live on myBinder!
