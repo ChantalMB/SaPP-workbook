@@ -42,7 +42,6 @@
   - "I'm using windows terminal (free from Microsoft store) but if you don't want to download stuff you can use built in powershell"
   - Explain what the terminal/command line is
     - `C:\` represents home directory (start here and want to be here)
-    - `C:\Users\[username]` is root
   - Explain directory structure
   - Basic commands
     - `cd` - change directory + tab once to fill in, double tab to print options
@@ -60,8 +59,3 @@
   - Customization (Windows Terminal)
     - Mention links are in the visual tut
       - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-
-
-# Jupyter Notebooks
-
-- "To start working with the data from the ADS, you need to put together your toolkit. You're currently working inside something called a jupyter notebook, which will be a key part of your analysis toolkit. It's a place to keep notes, pictures, code and maps together. You can add tools and data into your jupyter notebook and then use them to ask questions and make maps and visualisations that help answer those questions." -[Opitz](https://github.com/ropitz/spatialarchaeology/blob/master/ADSDataExercise.ipynb)
