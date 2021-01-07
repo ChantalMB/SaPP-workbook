@@ -1,4 +1,5 @@
-# Report on SaPP Fall 2020: HIST4916A Museums & Digital History
+# Report on SaPP Fall 2020
+## HIST4916A Museums & Digital History
 
 The Fall semester of 2020 was a tumultuous time of learning for all of those involved in education, for students and faculty alike. With university becoming an entirely online environment for the first time, there was no established pedagogical methodology to follow so each course became an experiment, and the responses of both those teaching and learning became the results that had to actively be taken note of as the semester unfolded. When I initially began my SaPP position with Dr Shawn Graham, I anticipated a much more technologically-centred role with a focus on gathering data and creating tutorials that could teach my peers how to work with it; and while I did do this, as students’ responses to the online semester were continuously discussed, a significant amount of my time working ended up being dedicated to forming the structure of [HIST4916A: Museums & Digital History](https://dhmuse.netlify.app/) to incorporate the feedback we had been receiving.
 
